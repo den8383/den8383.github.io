@@ -1,5 +1,0 @@
-
-        <div class="application">
-          <ul>
-            <button type="button" class="btn btn-danger"><li><a href="https://exampleapproot20200324.herokuapp.com/" target="_blank">つぶやきアプリ</a></li></button>
-            <!--<li><a href="https://exampleappjsgameroot20200324.herokuapp.com/" target="_blank">画像鬼ごっこ</a></li> -->
