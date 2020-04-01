@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{240:function(t,e,b){"use strict";b.r(e);var n=b(0),c=(b(1),b(119)),d=b.n(c),u=b(118),o=b(117);e.default=function(t){return Object(n.d)(o.d,null,Object(n.d)(d.a,{title:"About Page"}),Object(n.d)(u.b,{title:"About Page"}),Object(n.d)(o.a,{center:t},Object(n.d)("p",null,Object(n.d)("a",{href:"https://den8383.github.io/portfolio/"},"自己紹介ページです")),Object(n.d)("p",null,Object(n.d)("a",{href:"https://github.com/den8383"},"githubアカウント"))))}}}]);
+//# sourceMappingURL=component---src-pages-about-jsx-01568498e6eebfe31421.js.map
