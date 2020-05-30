@@ -10,15 +10,15 @@ hr{
   padding:1px; 
 }
 
-a{
+div.card-header.a{
   text-decoration: none;
 }
 
-a:link	{
+div.card-header.a:link	{
 	color : #000000;
 }
 
-a:visited	{
+div.card-header.a:visited	{
 	color : #000000;
 }
 
